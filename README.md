@@ -19,7 +19,7 @@ This project provides a script to analyze pull requests (PRs) across multiple Gi
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/jhomarolo/github-pr-analysis)
    cd <repository-folder>
    ```
 
